@@ -1,1 +1,0 @@
-// submitListing.js placeholder

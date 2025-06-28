@@ -1,1 +1,1 @@
-// Header.js placeholder
+export default function Header() { return <header><h1>Welcome to The AI Listing Pro</h1></header>; }

@@ -1,1 +1,1 @@
-// DashboardSidebar.js placeholder
+export default function DashboardSidebar() { return <aside>Sidebar Navigation</aside>; }
