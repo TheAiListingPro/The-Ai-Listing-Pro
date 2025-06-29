@@ -1,1 +1,0 @@
-// createCheckoutSession.js placeholder

@@ -1,3 +1,1 @@
-import Header from "../components/Header";
-import PricingPlans from "../components/PricingPlans";
-export default function Home() { return <><Header /><PricingPlans /></>; }
+export default function Home() { return <div>Welcome to AI Listing Pro</div>; }

@@ -1,2 +1,3 @@
-# The AI Listing Pro
-This is the full build of The AI Listing Pro.
+# AI Listing Pro
+
+Modern real estate listing site powered by AI.
