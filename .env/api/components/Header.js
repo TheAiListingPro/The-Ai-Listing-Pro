@@ -1,0 +1,1 @@
+export default function Header() { return <header>AI Listing Pro</header>; }
