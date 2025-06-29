@@ -1,1 +1,0 @@
-export default function PricingPlans() { return <section>Pricing Plans Component</section>; }
